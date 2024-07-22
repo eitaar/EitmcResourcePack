@@ -1,0 +1,14 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "man10/common/transparent_gray"
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}
