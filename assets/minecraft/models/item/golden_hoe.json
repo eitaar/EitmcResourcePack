@@ -8,7 +8,8 @@
     {"predicate": {"custom_model_data":1}, "model": "eit/wine/wine"},
     {"predicate": {"custom_model_data":2}, "model": "eit/mushikago/mushikago"},
     {"predicate": {"custom_model_data":3}, "model": "eit/gun/gun"},
-    {"predicate": {"custom_model_data":4}, "model": "eit/moroha_no_turugi/moroha_no_turugi"}
+    {"predicate": {"custom_model_data":4}, "model": "eit/moroha_no_turugi/moroha_no_turugi"},
+    {"predicate": {"custom_model_data":5}, "model": "eit/wine/wineBox"}
   ]
 
 }
